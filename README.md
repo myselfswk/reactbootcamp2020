@@ -1,8 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Surge Link:
-http://bootcamp-reactapp-waleed.surge.sh/  (Upload on Surge)
-
 ## Available Scripts
 
 In the project directory, you can run:
